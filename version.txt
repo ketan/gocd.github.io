@@ -1,12 +1,16 @@
-Last updated: 2018-12-26 09:31:59 -0800
+Last updated: 2019-01-09 22:27:34 +0530
 
 Latest commit:
-    commit 87a2bcec0ea810302d40f58233614cf83d0c8038
-    Merge: 6eadc44 44eedf6
-    Author: Aravind SV <auto.github@arvindsv.com>
-    Date:   Wed Dec 26 12:18:20 2018 -0500
+    commit 956cba971a7f2a713e62803aa8f95111f367133c
+    Author: dependabot[bot] <support@dependabot.com>
+    Date:   Wed Jan 9 16:37:22 2019 +0000
     
-        Merge pull request #856 from varshavaradarajan/extra-padding
+        Bump mime-types from 3.1 to 3.2.2
         
-        Add additional padding only when there are 2 types of installers to show.
+        Bumps [mime-types](https://github.com/mime-types/ruby-mime-types) from 3.1 to 3.2.2.
+        - [Release notes](https://github.com/mime-types/ruby-mime-types/releases)
+        - [Changelog](https://github.com/mime-types/ruby-mime-types/blob/master/History.md)
+        - [Commits](https://github.com/mime-types/ruby-mime-types/compare/v3.1...v3.2.2)
+        
+        Signed-off-by: dependabot[bot] <support@dependabot.com>
     
